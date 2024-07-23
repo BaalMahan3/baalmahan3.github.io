@@ -10,10 +10,12 @@ body {
 
 h1 {
     color: #1597af;
+    font-weight: bold;
 }
 
 h3 {
-    color: #5e8703
+    color: #5e8703;
+    font-weight: bold;
 }
 
 
